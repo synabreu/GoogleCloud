@@ -9,6 +9,6 @@ This repository is all of Google Cloud Application.
 
 # Microservices 
 
-[1. MartinFolwer's Microservice](https://martinfowler.com/articles/microservices.html)
-[2.Microservice Architecture](https://microservices.io/patterns/index.html)
+1. [MartinFolwer's Microservice](https://martinfowler.com/articles/microservices.html)
+2. [Microservice Architecture](https://microservices.io/patterns/index.html)
 
