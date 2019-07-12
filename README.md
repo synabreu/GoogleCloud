@@ -5,4 +5,6 @@ This repository is all of Google Cloud Application.
 
 # Firebase (outlinks)
 
-1. Getting started with google cloud functions on firebase[https://dev.to/bogdaaamn/getting-started-with-google-cloud-functions-on-firebase-3g29]
+1. [Getting started with google cloud functions on firebase](https://dev.to/bogdaaamn/getting-started-with-google-cloud-functions-on-firebase-3g29)
+
+
