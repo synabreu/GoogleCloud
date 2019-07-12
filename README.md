@@ -5,10 +5,10 @@ This repository is all of Google Cloud Application.
 
 # Firebase 
 
-1. [Getting started with google cloud functions on firebase](https://dev.to/bogdaaamn/getting-started-with-google-cloud-functions-on-firebase-3g29)
+[1. Getting started with google cloud functions on firebase](https://dev.to/bogdaaamn/getting-started-with-google-cloud-functions-on-firebase-3g29)
 
 # Microservices 
 
-1. [MartinFolwer's Microservice](https://martinfowler.com/articles/microservices.html)
-2. [Microservice Architecture] (https://microservices.io/patterns/index.html)
+[1. MartinFolwer's Microservice](https://martinfowler.com/articles/microservices.html)
+[2.Microservice Architecture](https://microservices.io/patterns/index.html)
 
